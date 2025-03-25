@@ -2,24 +2,7 @@
 <a id="readme-top"></a>
 
 # Paradise Nursery Shopping Cart App
-<!-- TABLE OF CONTENTS -->
-<details open>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#course-information">Course Information</a></li>
-    <li>
-      <a href="#information-about-the-project">Information about the Project</a>
-      <ul>
-        <li><a href="#general">General</a></li>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-<br>
+
 
 
 ## Introduction
